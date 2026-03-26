@@ -1,0 +1,132 @@
+{
+    "activeFile": "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/Free.tmx",
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/BG_1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/BG_2.tsx": {
+            "scaleInDock": 0.25
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/BG_3.tsx": {
+            "scaleInDock": 0.25
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/Decor.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/Free.tmx": {
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2073.25,
+                "y": 246.875
+            }
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/House Tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/Terrain_and_Props.tsx": {
+            "scaleInDock": 2
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/bg0.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/bg1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/bg2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/ff0004.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/springfield.tmx": {
+            "scale": 0.4531982421875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1023.8345095081615,
+                "y": 232.7899585196359
+            }
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/BG_1.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/Terrain_and_Props.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/ff0004.tsx": {
+            "scaleInDock": 1
+        },
+        "Decor.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "House Tiles.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "bg0.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "bg1.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "bg2.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "springfield.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 798.6666666666665,
+                "y": 231.33333333333337
+            }
+        },
+        "tileset.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/GandalfHardcore FREE Platformer Assets/GandalfHardcore FREE Platformer Assets",
+    "map.height": 29,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 128,
+    "openFiles": [
+        "springfield.tmx",
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/Free.tmx",
+        "Decor.tsx",
+        "House Tiles.tsx"
+    ],
+    "project": "Map2.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "springfield.tmx",
+        "House Tiles.tsx",
+        "Decor.tsx",
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/Free.tmx",
+        "C:/Users/Lenovo/Desktop/Game2d/assets/ASSETSGame/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/springfield.tmx",
+        "bg2.tsx",
+        "bg1.tsx",
+        "bg0.tsx",
+        "tileset.tsx"
+    ],
+    "textEdit.monospace": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
